@@ -1,0 +1,2 @@
+﻿Full Page Screen Capture
+========================
